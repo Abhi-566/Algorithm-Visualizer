@@ -1,3 +1,4 @@
-# Sorting Visualizer
+# Alogorithm Visualizer
 
-Welcome to Sorting Visualizer! 
+Welcome to Sorting Algo. Visualizer! 
+
